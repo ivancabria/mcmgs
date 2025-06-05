@@ -21,3 +21,6 @@ MOF-MRT-4_PIMMAD-muvt-10000000-1-25-298.15-1.0-periodic-111-percen20.0-srk-fh.ou
 To run an example, make:
 
 $HOME/bin/mcmgs < example-onemillion-roomtemperature.input > example-onemillion-roomtemperature.out-new
+
+The document 'User Manual of the mcmgs Code' contains detailed instructions about the compilation and 
+execution of the code, and about the meaning of the input and output file lines.
