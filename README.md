@@ -21,3 +21,9 @@ The code 'mcmgs' is written in fortran and only for Unix/Linux environments.
 It has been compiled and tested on different hosts based on Unix/Linux
 
 To compile the code, run 'make' or 'make -s'
+
+
+
+<a href="https://doi.org/10.5281/zenodo.15708498"><img src="https://zenodo.org/badge/996108119.svg" alt="DOI"></a>
+
+
