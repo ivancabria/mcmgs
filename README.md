@@ -20,7 +20,16 @@ The code 'mcmgs' is written in fortran and only for Unix/Linux environments.
 
 It has been compiled and tested on different hosts based on Unix/Linux
 
-To compile the code, run 'make' or 'make -s'
+The source files, the user manual of the code and some examples of input and output files 
+are in the branches of this project.
+
+To compile the code:
+a) tar zxvf mcmgs-source.tar.gz   The source files are in the directory mcmgs/source
+b) cd mcmgs/source
+c) Enter 'make' or 'make -s'
+
+The file inputandoutputfiles.tar.gz contains some examples of input and output files. To get 
+those files, enter 'tar zxvf inputandoutputfiles.tar.gz'.
 
 The file ljparameters.pdf contains the LJ (Lennard-Jones) parameters of the 
 103 atoms and six molecules used by the code 'mcmgs'.
