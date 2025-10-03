@@ -22,7 +22,8 @@ It has been compiled and tested on different hosts based on Unix/Linux
 
 To compile the code, run 'make' or 'make -s'
 
-
+The file ljparameters.pdf contains the LJ (Lennard-Jones) parameters of the 
+103 atoms and six molecules used by the code 'mcmgs'.
 
 <a href="https://doi.org/10.5281/zenodo.15708498"><img src="https://zenodo.org/badge/996108119.svg" alt="DOI"></a>
 
